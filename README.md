@@ -1,2 +1,2 @@
 # EDA-CAPSTONE-
-Project
+Project topic discussion
